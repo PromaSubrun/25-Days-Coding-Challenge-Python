@@ -1,4 +1,4 @@
-
+# Python if else 
 
 n = int(input("Enter your number: "))
 
